@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as a,b as n}from"./app.93cb6680.js";const h=JSON.parse('{"title":"\u5B89\u88C5","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/guide/install.md"}'),t={name:"zh-CN/guide/install.md"},l=n("",2),i=[l];function o(c,p,r,_,d,u){return e(),a("div",null,i)}const b=s(t,[["render",o]]);export{h as __pageData,b as default};
